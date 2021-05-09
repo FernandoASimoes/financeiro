@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background-image: url('./assets/img/financas.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-control{
+  width: 90%;
+  margin: 20px auto;
+}
+
+.btn-acessar{
+  width: 200px;
+  margin: 15px auto;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+}
+
+.title{
+  font-size: 30px;
+  margin: 10px;
+}
+
+.tabela-btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.btn-table {
+  font-size: 9px;
+}
